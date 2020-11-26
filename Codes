@@ -1,0 +1,3 @@
+Run main.m: In the first section, the image to be inpainted and the loss region are read.
+In the second section, the needed parameters are defined. This problem is sensitive to the parameters.
+The algorithm section has the same order and closest naming as the readme pdf.
